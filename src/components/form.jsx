@@ -6,7 +6,19 @@ import Sidebar from "./sidebar";
 class Form extends React.Component {
 	state = {};
 	render() {
-		return <section></section>;
+		return (
+			<section
+				className="
+		bg-white
+		">
+				<h1
+					className="
+				text-strawberry-red
+				">
+					wtf
+				</h1>
+			</section>
+		);
 	}
 }
 

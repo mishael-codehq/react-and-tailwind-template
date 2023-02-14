@@ -17,7 +17,12 @@ module.exports = {
 			"light-gray": "#d6d9e6",
 			magnolia: "#f0f6ff",
 			alabaster: "	#fafbff",
-			white: "#fffff",
+			white: "#fff",
+		},
+		fontWeight: {
+			lg: 700,
+			md: 500,
+			sm: 400,
 		},
 	},
 	plugins: [],
