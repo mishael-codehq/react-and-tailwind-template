@@ -1,0 +1,22 @@
+{
+	"id": 1,
+	"tittle": "Personal info",
+	"label": "your info",
+	"description": "please provide your name, emil address, and phone number",
+	"content": {
+		"form-elements": [
+			{
+				"label": "name",
+				"type": "text"
+			},
+			{
+				"label": "email address",
+				"type": "email"
+			},
+			{
+				"label": "phone number",
+				"type": "number"
+			}
+		]
+	}
+}

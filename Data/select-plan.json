@@ -1,0 +1,50 @@
+{
+	"id": 2,
+	"tittle": "select your plan",
+	"label": "select plan",
+	"description": "you have the option of monthly or yearly billing",
+	"content": {
+		"cards": [
+			{
+				"label": "arcade",
+				"price": {
+					"yearly": {
+						"number": 9,
+						"tag": "yr"
+					},
+					"monthly": {
+						"number": 90,
+						"tag": "mo"
+					}
+				}
+			},
+			{
+				"label": "advanced",
+				"price": {
+					"yearly": {
+						"number": 12,
+						"tag": "yr"
+					},
+					"monthly": {
+						"number": 120,
+						"tag": "mo"
+					}
+				}
+			},
+			{
+				"id": 2,
+				"label": "pro",
+				"price": {
+					"yearly": {
+						"number": 15,
+						"tag": "yr"
+					},
+					"monthly": {
+						"number": 150,
+						"tag": "mo"
+					}
+				}
+			}
+		]
+	}
+}

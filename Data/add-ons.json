@@ -1,0 +1,52 @@
+{
+	"id": 3,
+	"tittle": "pick add-ons",
+	"label": "add ons",
+	"description": "add-ons help enhance your gaming experience",
+	"content": {
+		"cards": [
+			{
+				"label": "online service",
+				"description": "access to multiplayer games",
+				"price": {
+					"yearly": {
+						"number": 10,
+						"tag": "yr"
+					},
+					"monthly": {
+						"number": 1,
+						"tag": "mo"
+					}
+				}
+			},
+			{
+				"label": "larger storage",
+				"description": "extra 1Tb of cloud save",
+				"price": {
+					"yearly": {
+						"number": 20,
+						"tag": "yr"
+					},
+					"monthly": {
+						"number": 2,
+						"tag": "mo"
+					}
+				}
+			},
+			{
+				"label": "customizable profile",
+				"description": "custom theme on your profile",
+				"price": {
+					"yearly": {
+						"number": 20,
+						"tag": "yr"
+					},
+					"monthly": {
+						"number": 2,
+						"tag": "mo"
+					}
+				}
+			}
+		]
+	}
+}
