@@ -3,3 +3,9 @@
 @taiwind base;
 @tailwind utilities;
 @tailwind components;
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
