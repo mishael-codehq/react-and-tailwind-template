@@ -4,7 +4,7 @@
 	"label": "your info",
 	"description": "please provide your name, emil address, and phone number",
 	"content": {
-		"form-elements": [
+		"forms": [
 			{
 				"label": "name",
 				"type": "text"
